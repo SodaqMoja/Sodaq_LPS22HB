@@ -1,0 +1,23 @@
+*~
+*.zip
+
+# Doxygen stuff
+html/
+latex/
+
+# Platformio stuff
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+lib/readme.txt
+
+# IDE stuff
+.vscode
+.vs/
+Debug/
+Release/
+*.vcxproj
+*.vcxproj.filters
+__vm/
+examples/barometric-logger/__vm
